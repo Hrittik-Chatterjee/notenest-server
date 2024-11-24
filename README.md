@@ -42,15 +42,7 @@ Here’s a list of the key API endpoints:
 
 ---
 
-## **Environment Variables**
-The backend requires the following environment variables:
 
-```env
-PORT=5000
-DATABASE_URL=your-mongodb-connection-uri
-```
-
----
 
 ### **Dependencies**
 Make sure to install the required dependencies by running `npm install`. Here's a list of the dependencies:
